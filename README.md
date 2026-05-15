@@ -90,5 +90,6 @@ endmodule
 **RTL**
 
 **Result:**
+Thus the basic logic gates such as AND, OR, NOT, NAND, NOR, XOR and XNOR were successfully implemented using Verilog HDL in Quartus II and their truth tables were verified successfully through simulation.
 
 
